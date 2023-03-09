@@ -1,2 +1,5 @@
-# Capstone-Design-Fair
-website for the capstone design fair
+# Capstone Design Fair Website
+
+Our deisgn fair website
+
+
